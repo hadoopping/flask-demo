@@ -6,9 +6,4 @@
 
 > test again
 
-argocd ->deployment
-
-
-
-
-test
+argocd ->deployment -> atuo
