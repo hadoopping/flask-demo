@@ -6,4 +6,4 @@
 
 > test again
 
-argocd ->deployment -> atuo
+argocd ->deployment -> auto
