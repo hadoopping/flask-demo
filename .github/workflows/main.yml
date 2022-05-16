@@ -43,7 +43,7 @@ jobs:
         uses: InformaticsMatters/trigger-ci-action@1.0.1
         with:
           ci-owner: hadoopping
-          ci-repository: flask-demo-kustomize
+          ci-repository: flask-demo-kustomize/secret/
           ci-ref: refs/heads/master
           ci-user: hadoopping
           ci-user-token: ${{ secrets.CI_TOKEN }}
